@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "blind-signatures": "^1.0.7",
+    "node-rsa": "^1.1.1"
+  }
+}
